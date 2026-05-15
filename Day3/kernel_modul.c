@@ -3,7 +3,6 @@
 #include <linux/init.h>
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Your Name");
 MODULE_DESCRIPTION("A simple Hello World kernel module with parameter");
 
 // Module parameter

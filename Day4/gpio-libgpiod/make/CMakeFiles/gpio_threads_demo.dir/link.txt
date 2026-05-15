@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/gpio_threads_demo.dir/main.c.o CMakeFiles/gpio_threads_demo.dir/libgpiod.c.o -o gpio_threads_demo  -lgpiod 
